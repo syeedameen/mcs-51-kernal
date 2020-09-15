@@ -147,7 +147,7 @@ SKIP_ADDDPTR_SELSORT:
     RET
 
 ;------------------------------------------------------------------;
-;		 			LINEAR SEARCH 								   ;
+;		 		    	LINEAR SEARCH   						   ;
 ;------------------------------------------------------------------;
 LINEARSEARCH:
 	POP 0X7F 	                    ;RET ADDRESS OF SUBROUTINE 
@@ -188,4 +188,4 @@ REPEAT_LINEARSEARCH:
 	PUSH ACC 
 	PUSH 0X7E 
 	PUSH 0X7F 
-	RET 
+	RET
