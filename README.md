@@ -1,4 +1,4 @@
-## A kernel for MCS-51 Architecture
+## A kernal for MCS-51 Architecture
 
 
 ## What's MSC-51 Architecture 
